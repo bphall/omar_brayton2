@@ -4,15 +4,15 @@ Actionable Insights from Scraped Data Project
 Ideas to explore: 
 
 possible dependent variables: 
-box office revenue
-profit
-audience review
+box office revenue,
+profit,
+audience review,
 rotten tomatoes review
 
 possible independent variables: 
-actor presence
-director
-genre
+actor presence,
+director,
+genre,
 budget
 
 
